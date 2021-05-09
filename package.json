@@ -1,0 +1,12 @@
+{
+  "name": "geektrust",
+  "version": "1.0.0",
+  "description": "geektrust",
+  "main": "geektrust.js",
+  "scripts": {
+    "start": "node geektrust.js"
+  },
+  "author": "Ganesh C",
+  "license": "ISC",
+  "dependencies": {}
+}
